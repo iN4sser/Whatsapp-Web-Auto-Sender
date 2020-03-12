@@ -5,7 +5,7 @@
 // @grant       none
 // @version     1.0
 // @author      iN4sser
-// @updateURL 
+// @updateURL   https://raw.githubusercontent.com/iN4sser/Whatsapp-Web-Auto-Sender/master/WhatsappWebAutoSender.user.js
 // @description 3/12/2020, 12:29:32 PM
 // ==/UserScript==
 window.onload=function(){
