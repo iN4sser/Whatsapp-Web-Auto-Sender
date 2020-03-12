@@ -2,7 +2,7 @@
 // @name        Whatsapp Web Auto Sender
 // @namespace   iN4sser
 // @match       http*://web.whatsapp.com/*
-// @grant       none
+// @grant       window.close
 // @version     1.0
 // @author      iN4sser
 // @updateURL   https://raw.githubusercontent.com/iN4sser/Whatsapp-Web-Auto-Sender/master/WhatsappWebAutoSender.user.js
@@ -15,4 +15,5 @@ window.onload=function(){
 }
 function autoClick(){   
   document.getElementsByClassName('_3M-N-')[0].click();
+  setTimeout(window.close,5000);
 }
