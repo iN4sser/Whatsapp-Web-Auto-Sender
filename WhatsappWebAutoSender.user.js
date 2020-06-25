@@ -14,6 +14,6 @@ window.onload=function(){
 
 }
 function autoClick(){   
-  document.getElementsByClassName('_3M-N-')[0].click();
+  document.getElementsByClassName('_1U1xa')[0].click();
   setTimeout(window.close,5000);
 }
