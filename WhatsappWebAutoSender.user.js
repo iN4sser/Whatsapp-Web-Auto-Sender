@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Whatsapp Web Auto Sender
-// @namespace   iN4sser
+// @namespace   https://www.in4sser.com
 // @match       *://web.whatsapp.com/*
 // @grant       window.close
 // @version     1.3
