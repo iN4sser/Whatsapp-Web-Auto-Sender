@@ -14,6 +14,6 @@ This script will click "Send" button and close the tap in 5 secounds automatical
 ```bash
 https://web.whatsapp.com/send?phone=NUMBER&text=HelloWorld
 ```
-Change "NUMBER" to the phone number including the country calling code (00966 for Sudi Arabia)
-This script will only work on "web.whatsapp.com"
-it will auto send anything and close the tap in 5 secounds
+Change "NUMBER" to the phone number including the country calling code (00966 for Sudi Arabia).
+This script will only work on "web.whatsapp.com".
+it will auto send anything and close the tap in 5 secounds.
