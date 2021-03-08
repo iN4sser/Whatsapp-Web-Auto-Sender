@@ -3,7 +3,7 @@
 // @namespace   https://www.in4sser.com
 // @match       *://web.whatsapp.com/*
 // @grant       window.close
-// @version     1.3
+// @version     1.4
 // @author      iN4sser
 // @updateURL   https://raw.githubusercontent.com/iN4sser/Whatsapp-Web-Auto-Sender/master/WhatsappWebAutoSender.user.js
 // @downloadURL https://raw.githubusercontent.com/iN4sser/Whatsapp-Web-Auto-Sender/master/WhatsappWebAutoSender.user.js
@@ -15,6 +15,6 @@ window.onload=function(){
 
 }
 function autoClick(){   
-  document.getElementsByClassName('_2Ujuu')[0].click();
+  document.getElementsByClassName('_1E0Oz')[0].click();
   setTimeout(window.close,5000);
 }
