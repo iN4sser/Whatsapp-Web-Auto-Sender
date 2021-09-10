@@ -1,5 +1,5 @@
 # Whatsapp Web Auto Sender
-This script will click "Send" button and close the tap in 5 secounds automatically
+This script will click "Send" button and close the tap in 5 seconds automatically
 
 ## Requirement
 * [ViolentMonkey For Chrome](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag)
